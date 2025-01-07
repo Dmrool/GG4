@@ -25,8 +25,4 @@ public interface ATransform {
 
         return resV;
     }
-
-    /*default Iterable<Vector3f> tra(Iterable<Vector3f> d) {
-
-    }*/
 }
